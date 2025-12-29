@@ -9,7 +9,7 @@ export const defaultConfig: ThemeConfig = {
     subtitle: 'By Doublesail',
     author: 'Doublesail',
     description: 'Rediscory the beauty of typography',
-    website: 'doublesails.vercel.app/',
+    website: 'https://doublesails.vercel.app/',
     pageSize: 5,
     socialLinks: [
       {
