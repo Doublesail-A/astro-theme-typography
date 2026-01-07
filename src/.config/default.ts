@@ -8,8 +8,8 @@ export const defaultConfig: ThemeConfig = {
     title: '双帆的博客',
     subtitle: 'By Doublesail',
     author: 'Doublesail',
-    description: 'Rediscory the beauty of typography',
-    website: 'https://doublesails.vercel.app/',
+    description: 'Doublesail’s blog',
+    website: 'https://doublesail.site/',
     pageSize: 5,
     socialLinks: [
       {
