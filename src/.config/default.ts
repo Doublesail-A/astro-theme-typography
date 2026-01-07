@@ -13,10 +13,6 @@ export const defaultConfig: ThemeConfig = {
     pageSize: 5,
     socialLinks: [
       {
-        name: 'github',
-        href: 'https://github.com/Doublesail-A',
-      },
-      {
         name: 'rss',
         href: '/atom.xml',
       },
@@ -25,7 +21,7 @@ export const defaultConfig: ThemeConfig = {
         href: 'https://x.com/double_sail',
       },
       {
-        name: 'mastodon',
+        name: 'bluesky',
         href: 'https://x.com/double_sail',
       },
     ],
@@ -72,7 +68,7 @@ export const defaultConfig: ThemeConfig = {
     },
   },
   seo: {
-    twitter: '@moeyua13',
+    twitter: '@double_sail',
     meta: [],
     link: [],
   },
