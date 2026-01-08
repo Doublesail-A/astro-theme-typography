@@ -21,7 +21,7 @@ export const defaultConfig: ThemeConfig = {
         href: 'https://x.com/double_sail',
       },
       {
-        name: 'bluesky',
+        name: 'bsky',
         href: 'https://x.com/double_sail',
       },
     ],
